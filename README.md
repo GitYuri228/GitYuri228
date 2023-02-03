@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>I am Capibara</b>
+<IMG SRC="https://www.icegif.com/wp-content/uploads/2022/09/icegif-279.gif">
 <!--
 **GitYuri228/GitYuri228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
